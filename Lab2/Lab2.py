@@ -1,4 +1,4 @@
-# Lab 2 assignment in SEP300 course
+# Lab2 assignment in SEP300 course
 # Student: Arian Amiri
 # Student ID: 186610218
 
